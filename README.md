@@ -43,9 +43,9 @@ RupeeTracker/
 ├── User.java             
 ├── Expense.java
 ├── assets/
-│         ├── img1.jpg
+│         ├── img1.png
 │         ├── ...
-│         ├── img7.jpg
+│         ├── img10.png
 └── *.class files
 
              
